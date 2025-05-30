@@ -25,12 +25,39 @@
 
 5. حتما از  enable بودن اسکریپت در تنظیمات Tampermonkey هم مطمئن شوید.
 
-6. اگر میخواید همه گزینه هارو خیلی خوب نزنید میتونید اسکریپت رو طبق کد های زیر ادیت کنید 👇
+6. اگر میخواید همه گزینه هارو خیلی خوب نزنید میتونید اسکریپت زیر رو طبق کد های زیر ادیت کنید 👇
+
+// ==UserScript==
+// @name         Auto checker (Amoozeshyar form helper)
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Automatically selects the right option for Professors survey forms
+// @author       @IAUCourseExp
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
+(function () {
+    'use strict';
+    document.querySelectorAll('input[type="radio"][value="کد را اینجا وارد کنید"]').forEach(radio => {
+        radio.checked = true;
+        const onclickAttr = radio.getAttribute("onclick");
+        if (onclickAttr) {
+            eval(onclickAttr);
+        }
+    });
+})();
+
+
 
 خیلی خوب: 7150024486
+
 خوب: 7150024322
+
 متوسط: 7150024237
+
 قابل قبول: 7150023989
+
 ضعیف: 7150023265
 
 
