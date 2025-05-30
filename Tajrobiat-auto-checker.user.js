@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Auto Select Radio Button (Melat Form Helper)
+// @name         Auto checker (Amoozeshyar form helper)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Automatically selects the right option for Melat survey forms
-// @author       @YourUsername
+// @description  Automatically selects the right option for Professors survey forms
+// @author       @IAUCourseExp
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
