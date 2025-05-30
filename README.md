@@ -33,23 +33,8 @@
 ## 💻 کد اسکریپت
 
 
-// ==UserScript==
 
-// @name         Auto checker (Amoozeshyar form helper)
 
-// @namespace    http://tampermonkey.net/
-
-// @version      1.0
-
-// @description  Automatically selects the right option for Professors survey forms
-
-// @author       @IAUCourseExp
-
-// @match        *://*/*
-
-// @grant        none
-
-// ==/UserScript==
 
 (function () {
 
