@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto checker (Amoozeshyar form helper)
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Automatically selects the right option for Professors survey forms
 // @author       @IAUCourseExp
 // @match        *://*/*
