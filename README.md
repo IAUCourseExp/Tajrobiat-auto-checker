@@ -1,16 +1,60 @@
-# 🧠 Tajrobiat Auto Checker 
+# 🧠 Tajrobiat Auto Checker
 
-This script automatically selects the desired radio option on specific Melat forms or surveys.
+این اسکریپت به‌طور خودکار گزینه‌ی مناسب را در فرم‌های نظرسنجی سایت آموزش‌یار (مثل ارزیابی اساتید) انتخاب می‌کند و فرایند پر کردن فرم را بسیار سریع‌تر و راحت‌تر می‌سازد.
 
-## ✅ How to Use
+## ✅ ویژگی‌ها
 
-1. Install the **Tampermonkey** extension:
-   - [Chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+- انتخاب خودکار گزینه‌ی «خیلی خوب» در فرم‌های ارزیابی استاد
+- فعال‌سازی رویدادهای لازم برای ثبت صحیح پاسخ
+- اجرای سریع و بی‌نیاز از دخالت کاربر
+- قابل استفاده روی همهٔ فرم‌های مشابه آموزش‌یار
 
-2. Click this link to install the script:
-   👉 [Install Script](https://raw.githubusercontent.com/IAUCourseExp/Tajrobiat-auto-checker/main/Tajrobiat-auto-checker.user.js)
+---
 
-3. Once installed, it will automatically select the radio button with value `7150024486` on relevant pages.
+## 🔧 نصب و راه‌اندازی
 
-⚠️ Only use this on pages you trust.
+1. افزونه Tampermonkey را نصب کنید:
+   - [🔗 برای Chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [🔗 برای Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+
+2. اسکریپت را با کلیک روی لینک زیر نصب کنید:
+   👉 [📥 نصب اسکریپت](https://raw.githubusercontent.com/IAUCourseExp/Tajrobiat-auto-checker/main/Tajrobiat-auto-checker.user-v2.js)
+
+3. تمام شد! از این به بعد هنگام باز کردن فرم‌های ارزیابی استاد، گزینه‌های «خیلی خوب» به‌طور خودکار انتخاب می‌شوند ✅
+
+> ⚠️ فقط در سایت‌های مورد اعتماد استفاده شود. این اسکریپت تنها برای سهولت در پر کردن فرم‌ها طراحی شده است.
+
+---
+
+## 📎 مثال تصویری از محیط اسکریپت
+
+![Demo Screenshot](./screenshot.png)
+
+---
+
+## 📢 منابع و کانال‌های مرتبط
+
+📚 **کانال تجربیات انتخاب واحد دانشگاه آزاد شیراز**  
+نظرات واقعی دانشجویان دربارهٔ دروس و اساتید  
+🔗 [@IAUCourseExp](https://t.me/IAUCourseExp)
+
+👥 **گروه تبادل تجربیات انتخاب واحد**  
+💬 [Join Group](https://t.me/+HzJnozEAV9JkMjBk)
+
+📘 **کانال اشتراک جزوه و منابع درسی**  
+🔗 [@IAUComp_Jozve](https://t.me/IAUComp_Jozve)
+
+👨‍🏫 **گروه تبادل جزوه و نمونه سوالات**  
+💬 [Join Group](https://t.me/+30ZW53ZbzWI3MTg0)
+
+---
+
+## 🤖 نویسنده
+
+📌 پروژه توسعه‌یافته توسط تیم [@IAUCourseExp](https://t.me/IAUCourseExp)
+
+---
+
+## ☕ حمایت از پروژه
+
+اگر این اسکریپت برات مفید بود، با اشتراک‌گذاری اون با دوستانت، حمایت کن 💙
