@@ -15,7 +15,7 @@
    - [🔗 برای Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 2. اسکریپت را با کلیک روی لینک زیر نصب کنید:
-   👉 [📥 نصب اسکریپت](https://raw.githubusercontent.com/IAUCourseExp/Tajrobiat-auto-checker/main/Tajrobiat-auto-checker.user-v2.js)
+   👉 [📥 نصب اسکریپت](https://raw.githubusercontent.com/IAUCourseExp/Tajrobiat-auto-checker/main/Tajrobiat-auto-checker.user.js)
 
 3. تمام شد! از این به بعد هنگام باز کردن فرم‌های ارزیابی استاد، گزینه‌های «خیلی خوب» به‌طور خودکار انتخاب می‌شوند ✅
 
