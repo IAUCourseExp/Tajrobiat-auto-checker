@@ -55,7 +55,7 @@
 
     'use strict';
 
-    document.querySelectorAll('input[type="radio"][value="**کد را اینجا وارد کنید**"]').forEach(radio => {
+    **document.querySelectorAll('input[type="radio"][value="کد را اینجا وارد کنید"]').forEach(radio => {**
 
         radio.checked = true;
 
